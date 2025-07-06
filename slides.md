@@ -1,4 +1,4 @@
-**「AIプログラミンング」コース**（Ver 5.9）
+**「AIプログラミンング」コース**（Ver 6.0）
 
 # Python初学者向け講座
 
@@ -106,21 +106,21 @@ print(x5)
 >>>
 
 ### コードはこんな感じ
-\```
+```
 const users = User.findAll();
 for (const user in users) {
   const friends = user.findFriend();
   // ...
 }
-\```
+```
 
 
 --
 
 # 3-2
 
-<p style="text-align: right">右寄せ</p>
-<p style="text-align: right"><span style="font-size: 70%; color: white;">右寄せ＋文字スタイル変更</span></p>
+<p style="text-align: left">右寄せ</p>
+<p style="text-align: left"><span style="font-size: 70%; color: white;">右寄せ＋文字スタイル変更</span></p>
 
 
 --
@@ -130,10 +130,10 @@ for (const user in users) {
 
 ## コードハイライト
 
-\```text [1|2]
+```text [1|2]
 1 ------
 2 ------
-\```
+```
 
 ---
 
