@@ -1,4 +1,4 @@
-**「AIプログラミンング」コース**（Ver 5.7）
+**「AIプログラミンング」コース**（Ver 5.8）
 
 # Python初学者向け講座
 
@@ -11,11 +11,11 @@ Kyushu Institute of Technology   (KYUTECH), JAPAN
 
 --
 
-# 1-1
+# 1-2
 
 --
 
-# 1-2
+# 1-3
 
 ---
 # 2-1
