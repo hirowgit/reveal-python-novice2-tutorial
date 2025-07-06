@@ -1,4 +1,4 @@
-**「AIプログラミンング」コース**（Ver 4.8）
+**「AIプログラミンング」コース**（Ver 5.0）
 
 # Python初学者向け講座
 
@@ -11,29 +11,40 @@ Kyushu Institute of Technology   (KYUTECH), JAPAN
 
 ---
 
-## 変数の使い方
+## 数式の使い方
 
 --
 
-
 $x^2 + y^2 = z^2$
 
+## 変数の使い方
 
+* [ ] a=a+b
+
+1. a
+2. b
+3. c
 
 ### Pythonコード
 
 #### Pythonコード
 
 ```python
+
 import numpy as np
 data = np.array([1,2,3])
+str = ["mother's cafe","station", "bookstore"]
+list0 = []
+k=1
 for i in data:
     print(i)
+    display(i)
+    list0.append(i)
+    k+=1
 
 x = 5
 print(x)
 ```
-
 
 # 大見出し（H1）
 
