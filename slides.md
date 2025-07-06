@@ -35,8 +35,6 @@ $x^2 + y^2 = z^2$
 2. b
 3. c
 
-### Pythonコード
-
 ```python
 import numpy as np
 data = np.array([1,2,3])
