@@ -32,7 +32,7 @@ $x^2 + y^2 = z^2$
 ```python
 import numpy as np
 data = np.array([1,2,3])
-str = ["mother's cafe","station", "bookstore","B"]
+str = ["mother's cafe","station", "bookstore","C"]
 list0 = []
 k=1
 for i in data:
