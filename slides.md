@@ -1,4 +1,4 @@
-**「AIプログラミンング」コース**（Ver 5.8）
+**「AIプログラミンング」コース**（Ver 5.9）
 
 # Python初学者向け講座
 
@@ -13,13 +13,37 @@ Kyushu Institute of Technology   (KYUTECH), JAPAN
 
 # 1-2
 
+### オートアニメイト
 
+<section data-auto-animate>
+1 ---
+</section>
 
+<section data-auto-animate>
+1 --- <br>
+2 ---
+</section>
+
+<section data-auto-animate>
+1 --- <br>
+2 --- <br>
+3 ---
+</section>
 
 --
 
 # 1-3
 
+### アニメーション
+
+<ul>
+  <li class="fragment">1つ目のポイント</li>
+  <li class="fragment">2つ目のポイント</li>
+  <li class="fragment">3つ目のポイント</li>
+</ul>
+
+- 1つ目のポイント <!-- .element: class="fragment" -->
+- 2つ目のポイント <!-- .element: class="fragment" -->
 
 
 ---
@@ -73,19 +97,43 @@ print(x5)
 
 # 3-1
 
-# 大見出し（H1）
+### 文字スタイル
+文字のスタイル普通<br>
+<span style="font-size: 80%; color: white;">
+文字サイズの変更
+</span>
+
+>>>
+
+### コードはこんな感じ
+\```
+const users = User.findAll();
+for (const user in users) {
+  const friends = user.findFriend();
+  // ...
+}
+\```
+
 
 --
 
 # 3-2
 
-## 中見出し（H2）
+<p style="text-align: right">右寄せ</p>
+<p style="text-align: right"><span style="font-size: 70%; color: white;">右寄せ＋文字スタイル変更</span></p>
+
 
 --
 
 # 3-3
 
-### 小見出し（H3）
+
+## コードハイライト
+
+\```text [1|2]
+1 ------
+2 ------
+\```
 
 ---
 
