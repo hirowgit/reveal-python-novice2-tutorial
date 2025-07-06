@@ -1,11 +1,10 @@
 
-**「AIプログラミンング」コース**（Ver 1.1）
+**「AIプログラミンング」コース**（Ver 1.2）
 
-# Python初学者向けレクチャー
+# Python初学者向け講座
 
 
-【解説者】我妻広明
-九州工業大学大学院生命体工学研究科
+【解説者】我妻広明　（九州工業大学大学院生命体工学研究科）
 
 Hiroaki  Wagatsuma, Professor
 Department of Human Intelligence Systems,
