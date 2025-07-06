@@ -1,17 +1,8 @@
-
 # Python入門
-
 GitHub Pages + Reveal.js で公開中
 
 ---
 
-## 変数の使い方
-
---
-
-### Pythonコード
-
+## 変数定義
 ```python
 x = 5
-print(x)
-```

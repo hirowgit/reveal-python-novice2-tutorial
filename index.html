@@ -4,31 +4,81 @@
   <meta charset="utf-8">
   <title>Python入門スライド</title>
   <link rel="stylesheet" href="dist/reveal.css">
-  <link rel="stylesheet" href="dist/theme/black.css">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="dist/theme/white.css">
+  <style>
+    #toc {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      background-color: rgba(0,0,0,0.7);
+      color: white;
+      padding: 10px;
+      font-size: 13px;
+      z-index: 1000;
+      border-radius: 5px;
+    }
+    #toc ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    #toc li {
+      margin-bottom: 5px;
+    }
+    #toc a {
+      color: #fff;
+      text-decoration: none;
+    }
+    #toc a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
-  <div class="reveal">
-    <div class="slides">
-      <section data-markdown="slides.md"
-               data-separator="^---"
-               data-separator-vertical="^--">
-      </section>
-    </div>
+
+<div id="toc">
+  <strong>目次</strong>
+  <ul>
+    <li><a href="#/0">Python入門</a></li>
+    <li><a href="#/1">変数の使い方</a>
+      <ul>
+        <li><a href="#/1/0">コード</a></li>
+        <li><a href="#/1/1">結果</a></li>
+        <li><a href="#/1/2">解説</a></li>
+      </ul>
+    </li>
+    <li><a href="#/2">計算と四則演算</a>
+      <ul>
+        <li><a href="#/2/0">コード</a></li>
+        <li><a href="#/2/1">結果</a></li>
+        <li><a href="#/2/2">解説</a></li>
+      </ul>
+    </li>
+    <li><a href="#/3">まとめ</a></li>
+  </ul>
+</div>
+
+<div class="reveal">
+  <div class="slides">
+    <section data-markdown="slides.md"
+             data-separator="^---"
+             data-separator-vertical="^--"
+             data-separator-notes="^Note:">
+    </section>
   </div>
+</div>
 
-  <script src="dist/reveal.js"></script>
-  <script src="plugin/markdown/markdown.js"></script>
-  <script src="plugin/highlight/highlight.js"></script>
-  <script src="plugin/math/math.js"></script>
+<script src="dist/reveal.js"></script>
+<script src="plugin/markdown/markdown.js"></script>
+<script src="plugin/highlight/highlight.js"></script>
+<script src="plugin/math/math.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    plugins: [ RevealMarkdown, RevealHighlight, RevealMath.KaTeX ],
+    slideNumber: true,
+    navigationMode: 'grid'
+  });
+</script>
 
-  <script>
-    Reveal.initialize({
-      hash: true,
-      plugins: [ RevealMarkdown, RevealHighlight, RevealMath.KaTeX ],
-      navigationMode: 'grid',
-      slideNumber: true
-    });
-  </script>
 </body>
 </html>
