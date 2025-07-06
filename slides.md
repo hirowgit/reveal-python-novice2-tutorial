@@ -1,4 +1,4 @@
-**「AIプログラミンング」コース**（Ver 5.1）
+**「AIプログラミンング」コース**（Ver 5.2）
 
 # Python初学者向け講座
 
@@ -26,9 +26,8 @@ $x^2 + y^2 = z^2$
 2. b
 3. c
 
-### Pythonコード
 
-#### Pythonコード
+### Pythonコード
 
 ```python
 import numpy as np
