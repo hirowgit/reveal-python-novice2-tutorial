@@ -1,5 +1,5 @@
 
-**「AIプログラミンング」コース**（Ver 1.2）
+**「AIプログラミンング」コース**（Ver 1.3）
 
 # Python初学者向け講座
 
@@ -23,3 +23,12 @@ Kyushu Institute of Technology   (KYUTECH), JAPAN
 x = 5
 print(x)
 ```
+
+
+
+
+# 大見出し（H1）
+
+## 中見出し（H2）
+
+### 小見出し（H3）
