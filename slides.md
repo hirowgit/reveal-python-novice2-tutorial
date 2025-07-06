@@ -1,4 +1,4 @@
-**「AIプログラミンング」コース**（Ver 2.5）
+**「AIプログラミンング」コース**（Ver 2.6）
 
 # Python初学者向け講座
 
@@ -21,6 +21,11 @@ $x^2 + y^2 = z^2$
 
 ```python import numpy as np x = 5 print(x) ```
 
+```python
+import numpy as np
+x = 5
+print(x)
+```
 
 <pre> ```python import numpy as np x = 5 print(x) ``` </pre>
 
