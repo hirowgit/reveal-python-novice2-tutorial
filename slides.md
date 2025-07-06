@@ -1,4 +1,4 @@
-**「AIプログラミンング」コース**（Ver 5.6）
+**「AIプログラミンング」コース**（Ver 5.7）
 
 # Python初学者向け講座
 
@@ -9,15 +9,24 @@ Department of Human Intelligence Systems,
 Graduate School of Life Science and Systems Engineering,
 Kyushu Institute of Technology   (KYUTECH), JAPAN
 
----
+--
 
+# 1-1
+
+--
+
+# 1-2
+
+---
+# 2-1
 ## 数式の使い方
 
 --
-
+# 2-2
 $x^2 + y^2 = z^2$
 
 --
+# 2-3
 ## 変数の使い方
 
 * [ ] a=a+b
@@ -25,7 +34,6 @@ $x^2 + y^2 = z^2$
 1. a
 2. b
 3. c
-
 
 ### Pythonコード
 
@@ -51,8 +59,14 @@ print(x5)
 
 ```
 
+---
+# 3-1
 # 大見出し（H1）
 
+--
+# 3-2
 ## 中見出し（H2）
 
+--
+# 3-3
 ### 小見出し（H3）
