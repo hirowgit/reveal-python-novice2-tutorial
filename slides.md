@@ -26,10 +26,13 @@ $x^2 + y^2 = z^2$
 
 ```python
 import numpy as np
+data = np.array([1,2,3])
+for i in data:
+    print(i)
+
 x = 5
 print(x)
 ```
-
 
 
 # 大見出し（H1）
