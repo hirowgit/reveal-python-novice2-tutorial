@@ -1,4 +1,4 @@
-**「AIプログラミンング」コース**（Ver 5.0）
+**「AIプログラミンング」コース**（Ver 5.1）
 
 # Python初学者向け講座
 
@@ -17,6 +17,7 @@ Kyushu Institute of Technology   (KYUTECH), JAPAN
 
 $x^2 + y^2 = z^2$
 
+--
 ## 変数の使い方
 
 * [ ] a=a+b
@@ -30,7 +31,6 @@ $x^2 + y^2 = z^2$
 #### Pythonコード
 
 ```python
-
 import numpy as np
 data = np.array([1,2,3])
 str = ["mother's cafe","station", "bookstore"]
