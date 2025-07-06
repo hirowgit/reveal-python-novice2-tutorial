@@ -1,8 +1,6 @@
-
-**「AIプログラミンング」コース**（Ver 1.3）
+**「AIプログラミンング」コース**（Ver 1.4）
 
 # Python初学者向け講座
-
 
 【解説者】我妻広明　（九州工業大学大学院生命体工学研究科）
 
@@ -23,9 +21,6 @@ Kyushu Institute of Technology   (KYUTECH), JAPAN
 x = 5
 print(x)
 ```
-
-
-
 
 # 大見出し（H1）
 
