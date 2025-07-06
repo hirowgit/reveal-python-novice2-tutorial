@@ -1,4 +1,4 @@
-**「AIプログラミンング」コース**（Ver 2.9）
+**「AIプログラミンング」コース**（Ver 3.0）
 
 # Python初学者向け講座
 
@@ -19,24 +19,16 @@ Kyushu Institute of Technology   (KYUTECH), JAPAN
 $x^2 + y^2 = z^2$
 
 
-```python import numpy as np x = 5 print(x) ```
-
-```python
-import numpy as np
-x = 5
-print(x)
-```
-
-<pre> ```python import numpy as np x = 5 print(x) ``` </pre>
 
 ### Pythonコード
-<pre> 
+
 ```python
 import numpy as np
 x = 5
 print(x)
 ```
-</pre> 
+
+
 
 # 大見出し（H1）
 
