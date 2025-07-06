@@ -43,6 +43,12 @@ for i in data:
 
 x = 5
 print(x)
+print(x1)
+print(x2)
+print(x3)
+print(x4)
+print(x5)
+
 ```
 
 # 大見出し（H1）
