@@ -1,55 +1,27 @@
-**「AIプログラミンング」コース**（Ver 6.1）
+# L2M1S1
 
-# Python初学者向け講座
+## 変数と代入
 
-【解説者】我妻広明　（九州工業大学大学院生命体工学研究科）
+1. 数字の１と２を足して、3が得られます。
+2. では、数字の１を変数aに**格納**し、その後、aと２を足すと、これも3が得られます。
+3. 次に、数字の１を変数aに、数字の２を変数bに**格納**し、その後、aとbを足すと、3が得られます。
 
-Hiroaki  Wagatsuma, Professor
-Department of Human Intelligence Systems,
-Graduate School of Life Science and Systems Engineering,
-Kyushu Institute of Technology   (KYUTECH), JAPAN
 
---
+```text
+#Level 1:
+1+2 = 3
 
-# 1-2
+#Level 2:
+a=1
+a+2 = 3
 
-### オートアニメイト
-
-<section data-auto-animate>
-1 ---
-</section>
-
-<section data-auto-animate>
-1 --- <br>
-2 ---
-</section>
-
-<section data-auto-animate>
-1 --- <br>
-2 --- <br>
-3 ---
-</section>
-
---
-
-# 1-3
-
-### アニメーション
-
-<ul>
-  <li class="fragment">1つ目のポイント</li>
-  <li class="fragment">2つ目のポイント</li>
-  <li class="fragment">3つ目のポイント</li>
-</ul>
-
-- 1つ目のポイント `<!-- .element: class="fragment" -->`
-- 2つ目のポイント `<!-- .element: class="fragment" -->`
+#Level 3:
+a=1
+b=2
+a+b = 3
+```
 
 ---
-
-# 2-1
-
-## 数式の使い方
 
 --
 
