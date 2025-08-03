@@ -59,7 +59,8 @@ b[1]
 
 # VPL01-FMB-L1S2
 ##　シンボル計算の展開
-<mark><1,5></mark>
+
+<mark>[<1,5>](https://hirowgit.github.io/reveal-python-novice2-tutorial/fmb2025_lec.html#/0/4) </mark>
 
 モジュールインポート設定は以下：
 ```python
@@ -118,7 +119,8 @@ sym.simplify(b1+b2)
 
 # VPL01-FMB-L1S3
 ##　等式の設計
-<mark><1,9></mark>
+
+<mark>[<1,9>](https://hirowgit.github.io/reveal-python-novice2-tutorial/fmb2025_lec.html#/0/8) </mark>
 
 モジュールインポート設定は以下：
 ```python
@@ -185,7 +187,7 @@ from sympy import sin, cos, tan, Matrix
 from sympy.abc import *
 from sympy.series.limitseq import limit_seq
 ```
----
+--
 
 <b>Level 1:</b>
 
