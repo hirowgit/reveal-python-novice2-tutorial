@@ -619,12 +619,12 @@ ans3.pop(0)
 List = [1,2,3]
 ans1 = []
 for n in List:
-  List.append(n+?)
+  ans1.append(n+?)
 # ans1 = [2,3,4]
 ```
 
 ```python
-  List.append(n+1)
+  ans1.append(n+1)
 ```
 
 --
