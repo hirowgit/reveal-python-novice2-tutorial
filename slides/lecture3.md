@@ -347,8 +347,8 @@ ans3, b = 2, 1
 ```python
 #Level 1:
 ans1 = ?
-for i in range(3): ans1 = ans1 + 1
-#ans1= 4
+while ans1 <= 6: ans1 = ans1 + 1
+#ans1= 7
 ```
 
 ```python
@@ -364,9 +364,9 @@ ans1 = 1
 ```python
 #Level 2:
 ans2 = ?
-for i in range(3):
+while ans2 <= 6:
     ans2 = ans2 + 1
-#ans2= 5
+#ans2= 7
 ```
 
 ```python
@@ -382,9 +382,9 @@ ans2 = 1
 ```python
 #Level 3:
 ans3 = ?
-for i in range(3):
-    ans3 += 3
-#ans3= 6
+while ans3 <= 6:
+    ans3 += 1
+#ans3= 7
 ```
 
 ```python
@@ -692,7 +692,7 @@ ans3 = [n+1 for n in List]
 #Level 1:
 List = [2,3,4]
 ans1 = [n*? for n in List]
-# ans1 = [20,30,4
+# ans1 = [20,30,40]
 ```
 
 ```python
