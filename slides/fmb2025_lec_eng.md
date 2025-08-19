@@ -1,5 +1,27 @@
 # VPL01-FMB-L1S1
-## Design of symbol variables (with subscripts) For a detailed explanation, <mark>[<1,1>](https://hirowgit.github.io/reveal-python-novice2-tutorial/fmb2025_lec_eng.html) </mark>
+## Design of symbol variables (with subscripts) For a detailed explanation, <mark>[<1,1>](https://hirowgit.github.io/reveal-pytあまぞああ
+
+h
+
+
+
+
+o
+
+
+
+n-
+
+
+　
+n
+
+
+
+
+
+
+ovice2-tutorial/fmb2025_lec_eng.html) </mark>
 
 The module import settings are:
 
